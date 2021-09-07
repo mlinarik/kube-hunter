@@ -15,3 +15,4 @@ pre-commit
 flake8-bugbear
 flake8-mypy
 pluggy
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
